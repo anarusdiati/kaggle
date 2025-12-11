@@ -7,16 +7,11 @@ This repository contains my personal learning code from the **Kaggle – Intro t
 -----------
 
 *   Arithmetic and variablesMake calculations, define and modify variables
-    
 *   FunctionsOrganize codes and avoid redundancy
-    
 *   Data typesExplore integers, floats, booleans, and strings
-    
 *   Conditions and conditional statementsModify how functions run, depending on the input
-    
 *   Intro to listsOrganize data to work with it efficiently
     
-
 Each notebook contains exercises that reflect my step-by-step learning progress.
 
 **Notes**
@@ -25,7 +20,5 @@ Each notebook contains exercises that reflect my step-by-step learning progress.
 This repo is mainly for:
 
 *   Reviewing concepts I’ve learned
-    
 *   Practicing and experimenting with Python code
-    
 *   Building discipline in my coding journey
